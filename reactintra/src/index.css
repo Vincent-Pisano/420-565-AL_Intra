@@ -1,0 +1,26 @@
+.div_center {
+    text-align: center;
+}
+form {
+    display: inline-block;
+}
+
+table {
+  width: 100%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+thead {
+  background-color: blue;
+  color: white;
+}
+
+form {
+  margin-left: auto;
+  margin-right: auto;
+}
